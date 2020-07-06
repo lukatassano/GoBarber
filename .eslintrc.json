@@ -33,5 +33,6 @@
     "import/resolver": {
       "typescript": {}
     }
-  }
+  },
+  "camelcase": "off"
 }
